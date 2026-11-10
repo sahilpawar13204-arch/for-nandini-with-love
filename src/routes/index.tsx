@@ -165,7 +165,7 @@ function ApologyPage() {
       {trail.map((item) => <span key={item.id} className="cursor-heart" style={{ left: item.x, top: item.y }} aria-hidden="true">♥</span>)}
 
       {!entered && (
-        <section className="envelope-screen" aria-label="A note for Nandu">
+        <section className="envelope-screen" aria-label="A note for Nandini">
           <div className="envelope-scene">
             <span className="envelope-sparkle sparkle-a" aria-hidden="true">✦</span>
             <span className="envelope-sparkle sparkle-b" aria-hidden="true">✧</span>

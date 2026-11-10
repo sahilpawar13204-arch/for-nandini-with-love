@@ -7,7 +7,7 @@
 export const loveConfig = {
   websiteTitle: "For Nandini ❤️",
   herName: "Nandini",
-  nickname: "Nandu",
+  nickname: "Nandini",
   myName: "Sahil",
 
   colours: {
@@ -27,7 +27,7 @@ export const loveConfig = {
   messageAudioPath: "/message.mp3", // Replace public/message.mp3 with your recording.
 
   apologyMessage: [
-    "Nandu,",
+    "Nandini,",
     "I know I made a mistake, and I know my actions may have hurt you.",
     "Tum deserve nahi karti ki meri wajah se tumhe kabhi bura lage.",
     "Sometimes I fail to express things properly, but that doesn't change how important you are to me.",
@@ -35,7 +35,7 @@ export const loveConfig = {
     "I'm not asking you to forget everything immediately. I just want you to know that I'm genuinely sorry.",
     "I don't want my apology to remain just words. I want to show you through my actions that I can do better.",
     "I miss your smile, your happiness and our little moments together.",
-    "I'm sorry, Nandu.",
+    "I'm sorry, Nandini.",
   ],
 
   memories: [
@@ -72,7 +72,7 @@ export const loveConfig = {
     "Nandini, tum meri life ka woh hissa ho jise main kabhi taken for granted nahi lena chahta.",
     "Main perfect nahi hoon, par tumhare liye better banne ki koshish hamesha sachchi rahegi.",
     "Tumhari smile mere liye bahut precious hai.",
-    "I love you, Nandu. ❤️",
+    "I love you, Nandini. ❤️",
   ],
 
   dinnerPlan: [
